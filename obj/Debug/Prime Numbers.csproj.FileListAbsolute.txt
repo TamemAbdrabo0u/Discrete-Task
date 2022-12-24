@@ -1,0 +1,16 @@
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\bin\Debug\Prime Numbers.exe.config
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\bin\Debug\Prime Numbers.exe
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\bin\Debug\Prime Numbers.pdb
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.AssemblyReference.cache
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.SuggestedBindingRedirects.cache
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.CoreCompileInputs.cache
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+E:\Visuale Studio\Console App\prime numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.AssemblyReference.cache
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.SuggestedBindingRedirects.cache
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.csproj.CoreCompileInputs.cache
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.exe
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\obj\Debug\Prime Numbers.pdb
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe.config
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.exe
+E:\Visuale Studio\Console App\Descrete project\Prime Numbers\Prime Numbers\bin\Debug\Prime Numbers.pdb
